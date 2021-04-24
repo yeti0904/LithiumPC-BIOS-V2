@@ -1,0 +1,5 @@
+print:"LithiumPC BIOS v2";
+set:code," ";
+input:code;
+clear:;
+run:"me",code;
